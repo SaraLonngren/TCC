@@ -1,4 +1,4 @@
-# Find issues per label
+# Find issues per labels (Github)
 Script that helps you to generate an CSV with title, date, label and link of your issue.
 
 ## How to run
