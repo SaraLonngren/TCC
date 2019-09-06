@@ -1,4 +1,4 @@
-# TCC
+# Find issues per label
 Script that helps you to generate an CSV with title, date, label and link of your issue.
 
 ## How to run
